@@ -59,8 +59,8 @@ jobs:
       - name: Push builds
         run: |
           cd $GITHUB_WORKSPACE/builds
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "43509070+MinhKyng@users.noreply.github.com"
+          git config --local user.name "MinhKyng"
           git add .
           git commit -m "Build $GITHUB_SHA" || exit 0   # do not error if nothing to commit
           git push
