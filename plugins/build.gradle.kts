@@ -38,7 +38,7 @@ subprojects {
     configure<AliucordExtension> {
         author("MinhKyng", 0L, hyperlink = false)
 
-        github("https://github.com/MinhKyng/global-notification-editor")
+        github("https://github.com/MinhKyng/aliucord-plugins")
     }
 
     configure<KtlintExtension> {

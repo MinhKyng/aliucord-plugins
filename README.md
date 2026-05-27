@@ -4,7 +4,7 @@ Download a plugin zip and place it in `/sdcard/Aliucord/plugins`.
 
 | Plugin | Description |
 | --- | --- |
-| [GlobalNotificationEditor](https://github.com/MinhKyng/global-notification-editor/raw/refs/heads/builds/GlobalNotificationEditor.zip) | Bulk edit server notification settings across every server cached in the client. |
+| [GlobalNotificationEditor](https://github.com/MinhKyng/aliucord-plugins/raw/refs/heads/builds/GlobalNotificationEditor.zip) | Bulk edit server notification settings across every server cached in the client. |
 
 ## Repository Layout
 
